@@ -28,6 +28,9 @@ Examples of layman deliverables, based on the multi-year Mask Project by Harold 
 ## What are its methods?
 Drawing on multi-disciplinary expertise from various fields, Heritage Science is made possible by the meeting of different areas of study; its method is the Renaissance method.
 
+![HeritageSciencediagram.png](images/HeritageSciencediagram.png)
+
+
 ## How (Pedagogy)?
 
 BAD-S
