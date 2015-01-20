@@ -1,4 +1,4 @@
-##Disclaimer
+## Disclaimer
 The ideas presented in this article borrows elements from Prof. Harold Thwaites’s (Consultant Professor & Director of the 3CDI, University Malaya) talk titled: *Theory & Praxis of Heritage Science: What do we learn when we can digitize EVERYTHING?* at the 2nd Singapore Heritage Science Conference given in NTU. The proposed course content, however, builds largely on Ernie’s conversations and involvements with the Responsible Business Forum 2014, Happiness Economics, data analytics, cultural groups, tech education and private tuition.
 
 This curriculum has been designed by Ernie, Co-founder and CEO of Artisnap Private Limited as well as Education Lead of Tech Society.
@@ -57,9 +57,9 @@ BAD-S
 
 > A: Assessment for Learning
 
-> D: Data Analytics
+> D: Data Analytics to monitor learning and knowledge transmission
 
-> S: Storytelling
+> S: Storytelling for emotional engagement
 
 ## Principles
 * These course modules are designed to be independent of each other, but a completion of which should entitle one to earn a Minor in Heritage Science.
@@ -69,6 +69,3 @@ BAD-S
 * Peer learning will be encouraged.
 * To promote student’s participation, game elements such as Badges, Streaks and Combos will be introduced where they may earn virtual credits by completing associated challenges.
 *	A Leaderboard showcases every team’s standing.
-
-
-
