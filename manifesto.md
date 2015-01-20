@@ -32,7 +32,7 @@ Drawing on multi-disciplinary expertise from various fields, Heritage Science is
 
 BAD-S
 
-> B: Blended Learning + Learning by Failing *or* Jugaad
+> B: Blended Learning + Learning by Failing or Jugaad
 
 > A: Assessment for Learning
 
