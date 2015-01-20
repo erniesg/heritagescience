@@ -23,6 +23,13 @@ Driven by the spirit of scientific inquiry, Heritage Science aims to generate ne
 
 This Heritage Science curriculum aims to groom a pool of cultural entrepreneurs for Singapore. The end goal is Singapore as a Heritage Hub, in which we will be able to inform, lead and consult on matters ranging from capturing heritage to cultural reproduction. In research terms, research clusters in Singapore will be able to contribute to the domains listed below:
 
+| Name | Description          |
+| ------------- | ----------- |
+| Hybrid realities for interpretively rich cultural experiences      |  <ul><li>Visualisation, audification and interaction</li><li>•	Phenomenological co-presence in embodied cultural landscapes</li></ul>|
+| Place and presence in heritage environments     | <ul><li>The restitution of heritage</li><li>Multi-sensory, multi-modal virtual environments that can be imaginatively and physically inhabited</li></ul>    |
+| Applied culture & heritage environment evaluation    | <ul><li>Human-computer interaction methodologies for <i>Smart Culture and Heritage Futures</i></li><li>Socio-cultural analysis, information systems theory, heuristic evaluation, usability studies</li></ul>    |
+| Culture & Heritage Theory   | <ul><li>Media Theory, Art Theory</li><li>Tourism Studies, Game Studies, Digital Humanities, Asian Studies, Archaeology, domain specific Humanitiess</li><li>HCI and Computational Semiotics informing a meaningful cross-disciplinary approach to <i>Smart Culture and Heritage Futures</i></li></ul>    |
+
 Examples of layman deliverables, based on the multi-year Mask Project by Harold Thwaites:
 
 ## What are its methods?
