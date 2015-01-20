@@ -1,5 +1,5 @@
 ##Disclaimer
-The ideas presented in this article borrows elements from Prof. Harold Thwaites’s (Consultant Professor & Director of the 3CDI, University Malaya) talk titled: Theory & Praxis of Heritage Science: What do we learn when we can digitize EVERYTHING? at the 2nd Singapore Heritage Science Conference given in NTU. The proposed course content, however, builds largely on Ernie’s conversations and involvements with the Responsible Business Forum 2014, Happiness Economics, data analytics, cultural groups, tech education and private tuition.
+The ideas presented in this article borrows elements from Prof. Harold Thwaites’s (Consultant Professor & Director of the 3CDI, University Malaya) talk titled: *Theory & Praxis of Heritage Science: What do we learn when we can digitize EVERYTHING?* at the 2nd Singapore Heritage Science Conference given in NTU. The proposed course content, however, builds largely on Ernie’s conversations and involvements with the Responsible Business Forum 2014, Happiness Economics, data analytics, cultural groups, tech education and private tuition.
 
 This curriculum has been designed by Ernie, Co-founder and CEO of Artisnap Private Limited as well as Education Lead of Tech Society.
 
